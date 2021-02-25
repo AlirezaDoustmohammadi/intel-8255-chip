@@ -1,0 +1,11 @@
+VERSION:3 SOURCE_TIMESTAMP:4AF20D42
+NODE:I LEVEL:0 LINE:3 "C:\Program Files (x86)\cvavr\inc\mega16.h"
+NODE:I LEVEL:0 LINE:4 "C:\Program Files (x86)\cvavr\inc\delay.h"
+NODE:I LEVEL:0 LINE:5 "C:\Program Files (x86)\cvavr\inc\stdio.h"
+NODE:I LEVEL:0 LINE:6 "C:\Program Files (x86)\cvavr\inc\stdio.h"
+NODE:V LEVEL:0 LINE:8 "c -> R5"
+NODE:V LEVEL:0 LINE:9 "x -> R4"
+NODE:F LEVEL:0 LINE:13 "ext_int0_isr(void)"
+NODE:F LEVEL:0 LINE:20 "ext_int1_isr(void)"
+NODE:F LEVEL:0 LINE:29 "main(void)"
+NODE:F LEVEL:0 LINE:97 "sender(void)"
